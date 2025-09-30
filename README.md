@@ -2,8 +2,6 @@
 
 Welcome to the **Salem Mango Blog** GitHub repository! This repository contains educational and informative content about various health products, other health-focused articles related to our products.
 
-Visit our main page here: [Salemmango](https://www.salemmango.com)
-
 ---
 
 ## About Karuppu Kavuni Rice
@@ -15,7 +13,7 @@ Visit our main page here: [Salemmango](https://www.salemmango.com)
 - Contains **anthocyanins**, powerful antioxidants
 - Promotes **heart health**, **detoxification**, and overall wellness
 
-Learn more about our high-quality black rice here: [Karuppu Kavuni Rice Article](./blog/karuppu-kavuni-rice.html)
+Learn more about our high-quality black rice here: [Karuppu Kavuni Rice Article](/karuppu-kavuni-rice.html)
 
 ---
 
